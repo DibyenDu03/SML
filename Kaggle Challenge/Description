@@ -1,0 +1,20 @@
+Link to Kaggle Challenge:
+
+https://www.kaggle.com/t/cf467eb15a5b4cb79ad6231d53c1b797
+
+You are given a dataset (uploaded on Kaggle). You are required to use and train any
+classifier and then make a submission.
+● You would need to preprocess the data to filter out outliers, irrelevant or redundant
+indices, etc.
+● You may need to balance the data during training.
+● You can use any technique for feature extraction.
+● You may use techniques like SVM, bagging, boosting, PCA, LDA, Multilayer
+Perceptron(up to 5 hidden layers), etc. These are just example techniques that can be
+useful. However, You can use other models also from scikit-learn.
+● There are marks for scoring (on the basis of Kaggle rankings).
+● Look and review also all the instructions, data, rules carefully mentioned on the
+Competition Page before starting the challenge.
+Dos:
+● Make end-to-end codes, i.e., given input data, output CSV should be generated. Your
+code should able to generate predictions and accuracy for any given test file.
+● Save your final models/weights and submit them along with the codes.
